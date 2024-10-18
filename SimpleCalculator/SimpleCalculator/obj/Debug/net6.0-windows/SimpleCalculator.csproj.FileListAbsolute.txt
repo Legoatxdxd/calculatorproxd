@@ -1,0 +1,16 @@
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.exe
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.deps.json
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.runtimeconfig.json
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.dll
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.pdb
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.Form1.resources
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.AssemblyInfo.cs
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.dll
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\refint\SimpleCalculator.dll
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.pdb
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.genruntimeconfig.cache
+C:\Users\myria\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\ref\SimpleCalculator.dll
